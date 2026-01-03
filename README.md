@@ -95,5 +95,5 @@ Restart Fiji so the script reloads, then run the plugin again.
 
 ## Author
 
-Guo Zonglin  
+Guo Zonglin (Harbin Institute of Technology, China)  
 E-mail: guo_zonglin@163.com
